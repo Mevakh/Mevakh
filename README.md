@@ -5,10 +5,7 @@ Hi there 👋,I'm Ömer
  Backend Developer
 </h2>
 <img align=right  width= 200; height=200px src=https://i0.wp.com/data.whicdn.com/images/362284038/original.gif?w=660&ssl=1>
-<p align=center>
-  <a href="https://www.linkedin.com/in/omerhs/" target="_blank" rel="noreferrer"><img width="40" height="40" src="https://cdn-icons-png.flaticon.com/512/174/174857.png"/></a>
-  <a href="https://www.instagram.com/h_.omers/" target="_blank" rel="noreferrer"><img width="40" height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/2048px-Instagram_icon.png"/></a>
-</p>
+
 
 <div>
 
